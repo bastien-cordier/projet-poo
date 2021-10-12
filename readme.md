@@ -1,6 +1,6 @@
 USERS :
 
-user : admin
+user : admin<br/>
 pwd: admin
 
 ---
