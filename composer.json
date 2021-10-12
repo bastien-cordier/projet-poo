@@ -1,0 +1,17 @@
+{
+  "name": "bastiencordier/php-projet-11-10",
+  "autoload": {
+    "psr-4": {
+      "Router\\": "routes/",
+      "App\\": "app/",
+      "Database\\": "database/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Bastien Cordier",
+      "email": "bastien.cordier78@gmail.com"
+    }
+  ],
+  "require": {}
+}
