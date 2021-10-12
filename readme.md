@@ -1,3 +1,10 @@
+USERS :
+
+user : admin
+pwd: admin
+
+---
+
 Objectif: Créer un site pour une association d'animaux
 
 Le site doit contenir:
